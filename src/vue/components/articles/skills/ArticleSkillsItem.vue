@@ -143,9 +143,6 @@ const links = computed(() => {
 
 div.skills-item {
   display: flex;
-  @include media-breakpoint-down(sm) {
-    width: calc(100% - 5px);
-  }
 }
 
 div.skills-item-icon {

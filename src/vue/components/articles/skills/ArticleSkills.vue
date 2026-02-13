@@ -58,18 +58,18 @@ const maxItemsPerLine = computed(() => {
 });
 
 const gutterClass = computed(() => {
-  if (!chartType.value) return "gx-2 gy-3 gy-md-4";
+  if (!chartType.value) return "gx-5 gy-3 gy-md-4";
   return "gx-2 gx-xl-3 gx-xxl-4 gy-3 gy-md-4 gy-xl-3 gy-xxl-4";
 });
 
 const colClass = computed(() => {
   const colWidth = Math.floor(12 / maxItemsPerLine.value);
-  return `col-12 col-sm-${colWidth}`;
+  return `col-${colWidth}`;
 });
 
 const colClassWithChart = computed(() => {
   const colWidth = Math.floor(12 / maxItemsPerLine.value);
-  return `col-12 col-sm-${colWidth}`;
+  return `col-${colWidth}`;
 });
 </script>
 
@@ -141,6 +141,7 @@ div.items-row-wrapper {
   flex-grow: 1;
   width: 100%;
   align-items: center;
+  padding: 0 10px;
 
   .row {
     display: flex;
