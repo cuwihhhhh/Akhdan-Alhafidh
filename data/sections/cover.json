@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleProfile",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_list_ids": ["address", "email", "phone"],
+        "contact_circles_ids": [
+          "instagram",
+          "linkedin",
+          "github",
+          "download_resume"
+        ]
+      },
+      "items": [
+        {
+          "id": 1,
+          "locales": {
+            "en": {
+              "description": "Lulusan Teknik Informatika dengan minat kuat di bidang analisis data dan visualisasi data. Berpengalaman membangun dashboard interaktif menggunakan Microsoft Excel serta melakukan pengolahan dan pelaporan data untuk menghasilkan insight yang mendukung pengambilan keputusan."
+            }
+          }
+        },
+
+        {
+          "id": 2,
+          "locales": {
+            "en": {
+              "description": "Saya percaya bahwa data yang diolah dengan tepat dapat memberikan insight yang bernilai dan membantu pengambilan keputusan yang lebih akurat."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

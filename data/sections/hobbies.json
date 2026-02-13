@@ -1,0 +1,77 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": null }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "transparent_item_icon_background": false,
+        "small_icons": true
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-chess-knight",
+          "fallbackFaIconColor": "#FF6384",
+          "locales": {
+            "en": {
+              "title": "Catur",
+              "description": "Strategi dan taktik di papan 64 kotak.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-book-open",
+          "fallbackFaIconColor": "#36A2EB",
+          "locales": {
+            "en": {
+              "title": "Baca Buku",
+              "description": "Membaca buku tentang pengembangan diri dan nonfiksi.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-music",
+          "fallbackFaIconColor": "#FFCE56",
+          "locales": {
+            "en": {
+              "title": "Musik",
+              "description": "Menyukai dan Mendengarkan berbagai genre musik.",
+
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-keyboard",
+          "fallbackFaIconColor": "#4BC0C0",
+          "locales": {
+            "en": {
+              "title": "Pembelajaran Mandiri",
+              "description": "Mempelajari keterampilan baru secara mandiri.",
+              "level": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

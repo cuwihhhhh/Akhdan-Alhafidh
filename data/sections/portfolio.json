@@ -1,0 +1,166 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "title": null,
+          "category_all": "All",
+          "category_productivity": "Software Projects",
+          "category_social": "Social",
+          "category_utilities": "Data Analytics"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 3,
+          "img": "images/portfolio/BENGBOT3.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "BengBOT - Chatbot AI untuk layanan pelanggan bengkel motor",
+              "description": "<b>*BengBOT*</b> adalah chatbot berbasis Artificial Intelligence yang dibangun menggunakan Python, Flask, dan TensorFlow. Chatbot ini memanfaatkan teknik Natural Language Processing (NLP) untuk memahami input pengguna dan mengklasifikasikan intent sebelum menghasilkan respons yang sesuai. <br><br> Proyek ini merupakan implementasi integrasi machine learning ke dalam aplikasi web, mulai dari preprocessing data, pelatihan model, hingga deployment.",
+              "tags": [
+                "AI",
+                "Chatbot",
+                "NLP",
+                "Flask",
+                "Python",
+                "TensorFlow",
+                "Machine Learning"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-file-pdf",
+              "href": "https://drive.google.com/file/d/1tEo6iBNbbcp1Yx2j5eh8Xx6Y5Skz5AAL/view",
+              "stringKey": "File Laporan"
+            },
+            {
+              "faIcon": "fa-solid fa-circle-play",
+              "href": "https://drive.google.com/file/d/1BENrKQ918jud51i9kJ_rL3b8KRNUmGtO/view",
+              "stringKey": "Demo Video"
+            },
+            {
+              "faIcon": "fa-brands fa-youtube",
+              "href": "https://youtu.be/rjpBKKnv4vs?si=Z0Kphdq89dX91IVm",
+              "stringKey": "YouTube"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "img": "images/portfolio/spk-mfep.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "SPK Pemeringkatan Santri Unggul & Berprestasi",
+              "description": "<b>SPK - MFEP</b> adalah sistem pendukung keputusan berbasis web yang mengimplementasikan metode Multi Factor Evaluation Process (MFEP) untuk melakukan evaluasi dan pemeringkatan santri berdasarkan kriteria terukur. Sistem ini dirancang untuk menghasilkan keputusan yang objektif, transparan, dan terstruktur dalam menentukan santri unggul dan berprestasi. <br><br>Sistem ini membantu pihak pengelola dalam mempercepat proses seleksi serta meminimalisir subjektivitas dalam pengambilan keputusan.",
+              "tags": [
+                "PHP",
+                "Decision Support System",
+                "MFEP",
+                "Data Processing",
+                "MySQL",
+                "Web Application"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-file-pdf",
+              "href": "https://drive.google.com/file/d/1FF3eS8btZeZMjQRlMBoFk9Z3fpazpz3g/view",
+              "stringKey": "File Laporan"
+            },
+            {
+              "faIcon": "fa-solid fa-circle-play",
+              "href": "https://drive.google.com/file/d/1_Wo-BW0OE0NFLCBU4_Cqgm4YwuaPfJ5Z/view",
+              "stringKey": "Demo Video"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-crow",
+          "fallbackFaIconColor": "#7c4d91",
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Bird Tracker",
+              "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
+              "tags": [
+                "birdwatching",
+                "nature",
+                "wildlife",
+                "tracking",
+                "outdoors"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-apple",
+              "href": "https://www.apple.com/br/app-store/",
+              "stringKey": "view_on_app_store"
+            },
+            {
+              "faIcon": "fa-brands fa-google-play",
+              "href": "https://play.google.com/store",
+              "stringKey": "view_on_google_play"
+            },
+            {
+              "faIcon": "fa-brands fa-windows",
+              "href": "https://apps.microsoft.com/home",
+              "stringKey": "view_on_windows_store"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "img": "images/portfolio/ternakk.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Dashboard Analisis Populasi Ternak Jawa Tengah (2019–2024)",
+              "description": "Proyek ini merupakan analisis eksploratif terhadap perkembangan populasi ternak di Jawa Tengah periode 2019–2024 menggunakan Microsoft Excel (Pivot Table & Pivot Chart). <br><br>Analisis difokuskan pada pertumbuhan komoditas, sentra produksi, fluktuasi tahunan, kontribusi wilayah, dan konsentrasi populasi untuk menghasilkan insight strategis berbasis data. <br><br>Hasil analisis menunjukkan lonjakan signifikan pada komoditas Ayam Ras Broiler serta dominasi wilayah kabupaten sebagai pusat produksi ternak.",
+              "tags": [
+                "excel",
+                "pivot table",
+                "data analysis",
+                "data visualization",
+                "data cleaning",
+                "exploratory data analysis",
+                "dashboard"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-file-pdf",
+              "href": "https://drive.google.com/file/d/15ps1SsGWIj0GNid0POeTyK0dpvDfKh4P/view",
+              "stringKey": "File Laporan"
+            },
+            {
+              "faIcon": "fa-solid fa-file-excel",
+              "href": "https://onedrive.live.com/:x:/g/personal/13bef345d9d66494/IQD6N_xk82BZQqJoERXNZzLfAV50v7IbBO4uxv2tYa8BYNY?rtime=uLGfrxdq3kg&nav=MTVfezlFQjQyQ0IwLUZBQzEtNDE1QS05MTYyLTYwMjFENEQ4NkJGRX0&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xM2JlZjM0NWQ5ZDY2NDk0L0lRRDZOX3hrODJCWlFxSm9FUlhOWnpMZkFWNTB2N0liQk80dXh2MnRZYThCWU5ZP2U9SW9QY1JFJm5hdj1NVFZmZXpsRlFqUXlRMEl3TFVaQlF6RXROREUxUVMwNU1UWXlMVFl3TWpGRU5FUTROa0pHUlgw",
+              "stringKey": "File Excel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

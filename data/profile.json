@@ -1,0 +1,63 @@
+{
+  "name": "Akhdan Alhafidh",
+  "profilePictureUrl": "images/pictures/tes.JPG",
+  "locales": {
+    "en": {
+      "credits": "2026",
+      "role": "Aspiring Data Analyst"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
+        "en": {
+          "value": "Kemang Kiara, Kemang, Kab.Bogor, Jawa Barat, Indonesia",
+          "valueShort": "Kemang, Bogor – Indonesia"
+        }
+      }
+    },
+    {
+      "id": "email",
+      "value": "adandun@gmail.com",
+      "valueShort": "adandun@gmail.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:adandun@gmail.com",
+      "copy": true
+    },
+    {
+      "id": "instagram",
+      "value": "@adanalhafidh",
+      "valueShort": "@adanalhafidh",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://www.instagram.com/adanalhafidh",
+      "copy": false
+    },
+    {
+      "id": "linkedin",
+      "value": "@Akhdan Alhafidh",
+      "valueShort": "@Akhdan Alhafidh",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/akhdan-alhafidh/",
+      "copy": false
+    },
+    {
+      "id": "phone",
+      "value": "+62 857-7222-4910",
+      "valueShort": "+62 857-7222-4910",
+      "faIcon": "fa-brands fa-whatsapp",
+      "href": "tel:6285772224910",
+      "copy": true
+    },
+    {
+      "id": "download_resume",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-solid fa-file-pdf",
+      "href": "/pdf/resume.pdf",
+      "copy": false
+    }
+  ]
+}

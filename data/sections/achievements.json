@@ -1,0 +1,71 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleThread",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2024, "month": 6 },
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "AI 4 JOBS - (MSIB Batch 6)",
+              "description": "Program Studi Independen (900 jam) yang berfokus pada konsep Artificial Intelligence, pemrograman Python, analisis data & statistik, serta pengembangan proyek akhir berbasis AI untuk penyelesaian masalah bisnis.",
+              "institution": "PT. Orbit Ventura Indonesia (Orbit Future Academy)"
+            }
+          },
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1BWVShUSFOY9ovbHgoFb5ZQlzCVIsnMQJ/view?usp=sharing",
+              "stringKey": "view_certification"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "dateStart": { "year": 2025, "month": 4 },
+          "fallbackFaIcon": "fa-solid fa-house-laptop",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Sertifikasi Kompetensi Pemrogram",
+              "description": "Sertifikasi kompetensi dalam pengembangan perangkat lunak yang mencakup penggunaan spesifikasi program, penulisan kode sesuai standar, pengelolaan basis data, dan proses debugging.",
+              "institution": "LSP Universitas Pamulang"
+            }
+          },
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1kscIwqlmFVQOsb8fQfWURNoRlfx8Bc95/view?usp=sharing",
+              "stringKey": "view_certification"
+            }
+          ]
+        },
+
+        {
+          "id": 3,
+          "dateStart": { "year": 2026, "month": 0 },
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Intro to Data Analytics",
+              "description": "Pengantar analisis data mencakup data cleaning, EDA, dan visualisasi data.",
+              "institution": "RevoU"
+            }
+          },
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1gwLZeNG9HZE8qOjwoDNRDUky3HOPZr-G/view?usp=sharing",
+              "stringKey": "view_certification"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

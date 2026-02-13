@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleContactForm",
+      "locales": {
+        "en": {
+          "contact_thank_you": "*Thanks* for the contact!",
+          "contact_thank_you_description": "Pesan Anda telah diterima, dan saya akan segera menghubungi Anda. Saya menghargai waktu Anda dan menantikan untuk terhubung dengan Anda!",
+          "contact_thank_you_reply": "Balasan akan dikirimkan ke alamat email Anda. *{email}*."
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_js_public_key": "3EqFdt-UkHu8DbLRW",
+        "contact_js_service_id": "service_h8r20j5",
+        "contact_js_template_id": "template_v5q3lia"
+      },
+      "items": null
+    },
+    {
+      "id": 2,
+      "component": "ArticleContactOptions",
+      "locales": {
+        "en": {
+          "title": "atau",
+          "description": "Jika tidak otomatis mendapatkan balasan email silahkan hubungi saya melalui:"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_ids": ["address", "phone", "email", "linkedin", "instagram"]
+      },
+      "items": null
+    }
+  ]
+}
