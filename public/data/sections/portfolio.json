@@ -90,43 +90,6 @@
           ]
         },
         {
-          "id": 1,
-          "img": null,
-          "fallbackFaIcon": "fa-solid fa-crow",
-          "fallbackFaIconColor": "#7c4d91",
-          "category": "utilities",
-          "locales": {
-            "en": {
-              "title": "Bird Tracker",
-              "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
-              "tags": [
-                "birdwatching",
-                "nature",
-                "wildlife",
-                "tracking",
-                "outdoors"
-              ]
-            }
-          },
-          "links": [
-            {
-              "faIcon": "fa-brands fa-apple",
-              "href": "https://www.apple.com/br/app-store/",
-              "stringKey": "view_on_app_store"
-            },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://play.google.com/store",
-              "stringKey": "view_on_google_play"
-            },
-            {
-              "faIcon": "fa-brands fa-windows",
-              "href": "https://apps.microsoft.com/home",
-              "stringKey": "view_on_windows_store"
-            }
-          ]
-        },
-        {
           "id": 2,
           "img": "images/portfolio/ternakk.png",
           "fallbackFaIcon": "",
