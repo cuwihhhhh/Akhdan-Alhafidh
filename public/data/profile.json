@@ -1,101 +1,63 @@
 {
-    "name": "Roy Sheppard",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
-    "locales": {
+  "name": "Akhdan Alhafidh",
+  "profilePictureUrl": "images/pictures/tes.JPG",
+  "locales": {
+    "en": {
+      "credits": "2026",
+      "role": "Aspiring Data Analyst"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-        "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+          "value": "Kemang Kiara, Kemang, Kab.Bogor, Jawa Barat, Indonesia",
+          "valueShort": "Kemang, Bogor – Indonesia"
         }
+      }
     },
-    "contactOptions": [
-        {
-            "id": "address",
-            "faIcon": "fa-regular fa-map",
-            "href": null,
-            "locales": {
-                "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
-                },
-                "es": {
-                    "valueShort": "California – EE.UU."
-                },
-                "fr": {
-                    "valueShort": "Californie – États-Unis"
-                },
-                "zh": {
-                    "valueShort": "美国加州"
-                }
-            }
-        },
-        {
-            "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
-            "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com",
-            "copy": true
-        },
-        {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com",
-            "copy": false
-        },
-        {
-            "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com",
-            "copy": false
-        },
-        {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com",
-            "copy": false
-        },
-        {
-            "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com",
-            "copy": false
-        },
-        {
-            "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
-            "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890",
-            "copy": true
-        },
-        {
-            "id": "download_resume",
-            "value": "",
-            "valueShort": "",
-            "faIcon": "fa-solid fa-file-pdf",
-            "href": "/pdf/resume.pdf",
-            "copy": false
-        }
-    ]
+    {
+      "id": "email",
+      "value": "adandun@gmail.com",
+      "valueShort": "adandun@gmail.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:adandun@gmail.com",
+      "copy": true
+    },
+    {
+      "id": "instagram",
+      "value": "@adanalhafidh",
+      "valueShort": "@adanalhafidh",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://www.instagram.com/adanalhafidh",
+      "copy": false
+    },
+    {
+      "id": "linkedin",
+      "value": "@Akhdan Alhafidh",
+      "valueShort": "@Akhdan Alhafidh",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/akhdan-alhafidh/",
+      "copy": false
+    },
+    {
+      "id": "phone",
+      "value": "+62 857-7222-4910",
+      "valueShort": "+62 857-7222-4910",
+      "faIcon": "fa-brands fa-whatsapp",
+      "href": "tel:6285772224910",
+      "copy": true
+    },
+    {
+      "id": "download_resume",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-solid fa-file-pdf",
+      "href": "/pdf/resume.pdf",
+      "copy": false
+    }
+  ]
 }
