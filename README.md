@@ -19,14 +19,15 @@ This is a personal resume website built using the Vue Resume Template by Ryan Ba
 - Multi-language support
 - Contact form integration
 
+
+## License
+
+This project is based on the Vue Resume Template by Ryan Balieiro
+and follows the MIT License.
+
 ## Installation
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/ryanbalieiro/vue-resume-template
-
-License
-
-This project is based on the Vue Resume Template by Ryan Balieiro
-and follows the MIT License.
