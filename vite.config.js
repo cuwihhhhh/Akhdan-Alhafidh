@@ -3,7 +3,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Akhdan-Alhafidh/",
+  base: "/akhdan-alhafidh/",
   plugins: [vue()],
   css: {
     preprocessorOptions: {

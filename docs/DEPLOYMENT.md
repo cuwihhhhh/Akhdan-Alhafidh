@@ -6,7 +6,7 @@ Open `vite.config.js` and set the base directory for your application. This sett
 
 ```js
 export default defineConfig({
-  base: "/Akhdan-Alhafidh/",
+  base: "/akhdan-alhafidh/",
   plugins: [vue()],
 });
 ```
