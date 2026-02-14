@@ -86,6 +86,11 @@
               "faIcon": "fa-solid fa-circle-play",
               "href": "https://drive.google.com/file/d/1_Wo-BW0OE0NFLCBU4_Cqgm4YwuaPfJ5Z/view",
               "stringKey": "Demo Video"
+            },
+            {
+              "faIcon": "fa-solid fa-up-right-from-square",
+              "href": "https://spk-mfep.infinityfree.me",
+              "stringKey": "View Website"
             }
           ]
         },
