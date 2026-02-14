@@ -24,4 +24,9 @@ This is a personal resume website built using the Vue Resume Template by Ryan Ba
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ryanbalieiro/vue-resume-template
+
+License
+
+This project is based on the Vue Resume Template by Ryan Balieiro
+and follows the MIT License.
