@@ -53,6 +53,11 @@
               "faIcon": "fa-brands fa-youtube",
               "href": "https://youtu.be/rjpBKKnv4vs?si=Z0Kphdq89dX91IVm",
               "stringKey": "YouTube"
+            },
+            {
+              "faIcon": "fa-solid fa-up-right-from-square",
+              "href": "https://bengbot.onrender.com/",
+              "stringKey": "View Website"
             }
           ]
         },
