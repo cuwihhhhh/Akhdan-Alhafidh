@@ -64,6 +64,42 @@
               "stringKey": "view_certification"
             }
           ]
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2026, "month": 1 },
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "SpecialSkill Bootcamp: Data Analyst",
+              "description": "Pelatihan intensif dalam analisis data yang mencakup statistik, data preprocessing, EDA, visualisasi data, serta pembuatan laporan dan dashboard interaktif untuk mendukung pengambilan keputusan berbasis data.",
+              "institution": "Special Skill"
+            }
+          },
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1ntKvAR_WmYpObRvNd0XaI4CcZQdiJEe8/view",
+              "stringKey": "view_certification"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dateStart": { "year": 2026, "month": 1 },
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Sertifikasi MS. Excel Specialist",
+              "description": "Sertifikasi kompetensi dalam penggunaan Microsoft Excel untuk analisis data, termasuk kemampuan melakukan data preprocessing, EDA, visualisasi data, serta kemampuan menghasilkan laporan dan dashboard interaktif untuk mendukung pengambilan keputusan berbasis data.",
+              "institution": "KarirNex"
+            }
+          },
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1Zxs0GUKohYIR8d8IpLCELHTArPqoPQCI/view",
+              "stringKey": "view_certification"
+            }
+          ]
         }
       ]
     }
