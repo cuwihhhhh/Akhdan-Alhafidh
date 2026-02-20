@@ -207,8 +207,8 @@
           "locales": {
             "en": {
               "title": "English",
-              "description": "Native speaker with excellent communication and writing skills.",
-              "level": "Native"
+              "description": "Memiliki kemampuan dasar dalam bahasa Inggris, dapat memahami dan menggunakan dalam percakapan sederhana serta komunikasi tertulis dasar.",
+              "level": "Pasif"
             }
           }
         },
@@ -222,8 +222,8 @@
           "locales": {
             "en": {
               "title": "Bahasa Indonesia",
-              "description": "Fluent in both spoken and written Indonesian; confident in professional communication.",
-              "level": "Fluent"
+              "description": "Lancar dalam komunikasi lisan dan tulisan Bahasa Indonesia; percaya diri dalam komunikasi profesional.",
+              "level": "Lancar"
             }
           }
         }

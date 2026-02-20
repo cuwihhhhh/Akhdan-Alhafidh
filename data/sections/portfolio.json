@@ -8,7 +8,7 @@
           "title": null,
           "category_all": "All",
           "category_productivity": "Software Projects",
-          "category_social": "Social",
+          "category_social": "Community",
           "category_utilities": "Data Analytics"
         }
       },
@@ -130,6 +130,78 @@
               "faIcon": "fa-solid fa-file-excel",
               "href": "https://onedrive.live.com/:x:/g/personal/13bef345d9d66494/IQD6N_xk82BZQqJoERXNZzLfAV50v7IbBO4uxv2tYa8BYNY?rtime=uLGfrxdq3kg&nav=MTVfezlFQjQyQ0IwLUZBQzEtNDE1QS05MTYyLTYwMjFENEQ4NkJGRX0&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xM2JlZjM0NWQ5ZDY2NDk0L0lRRDZOX3hrODJCWlFxSm9FUlhOWnpMZkFWNTB2N0liQk80dXh2MnRZYThCWU5ZP2U9SW9QY1JFJm5hdj1NVFZmZXpsRlFqUXlRMEl3TFVaQlF6RXROREUxUVMwNU1UWXlMVFl3TWpGRU5FUTROa0pHUlgw",
               "stringKey": "File Excel"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "img": "images/portfolio/dboard.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Dashboard Analitik Penjualan dan Pola Pembelian Toko Sembako",
+              "description": "Dashboard ini menyajikan analisis komprehensif terkait penjualan dan pola pembelian pada toko sembako. Visualisasi data mencakup produk dengan pendapatan terbesar, produk paling laku, tren penjualan dari waktu ke waktu, rata-rata nilai transaksi, serta segmentasi pelanggan berdasarkan gender, platform, dan kategori diskon. Dashboard ini dirancang untuk membantu pengambilan keputusan strategis berbasis data dalam pengelolaan stok, pemasaran, dan peningkatan penjualan.",
+              "tags": [
+                "excel",
+                "pivot table",
+                "data analysis",
+                "data visualization",
+                "data cleaning",
+                "exploratory data analysis",
+                "dashboard"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-file-pdf",
+              "href": "https://drive.google.com/file/d/1cKx2XQ9hvdWa7Wdi5rRmFZHiH9MNo7Eu/view",
+              "stringKey": "File Laporan"
+            },
+            {
+              "faIcon": "fa-solid fa-circle-play",
+              "href": "https://drive.google.com/file/d/17n-YKbkeMU8kgkI4SE9xLFLNeWVSJZUA/view?usp=sharing",
+              "stringKey": "Video Dashboard"
+            },
+            {
+              "faIcon": "fa-solid fa-file-excel",
+              "href": "https://onedrive.live.com/:x:/g/personal/13BEF345D9D66494/IQBjNLX3Nz8WTLoq2gvsSR3hAS_qboUQIlHbHjhmkLmxWmc?resid=13BEF345D9D66494!sf7b534633f374c16ba2ada0bec491de1&ithint=file%2Cxlsx&e=87Xvbm&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xM2JlZjM0NWQ5ZDY2NDk0L0lRQmpOTFgzTno4V1RMb3EyZ3ZzU1IzaEFTX3Fib1VRSWxIYkhqaG1rTG14V21jP2U9ODdYdmJt",
+              "stringKey": "File Excel"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "img": "images/portfolio/pkm.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "social",
+          "locales": {
+            "en": {
+              "title": "Microsoft Excel Training Program – SMP Falatehan",
+              "description": "Berperan sebagai trainer dalam program Pengabdian Kepada Masyarakat (PKM) untuk mengenalkan dan mengajarkan dasar Microsoft Excel kepada siswa SMP Falatehan. Kegiatan mencakup penyusunan materi, praktik langsung, serta dipublikasikan dalam jurnal nasional.",
+              "tags": [
+                "microsoft excel",
+                "training",
+                "community project",
+                "data literacy",
+                "team collaboration",
+                "education"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-file-pdf",
+              "href": "https://drive.google.com/file/d/1c4J4tydvVSoiiiQwP292Ngeu9zYez7DN/view",
+              "stringKey": "File Materi"
+            },
+            {
+              "faIcon": "fa-solid fa-up-right-from-square",
+              "href": "https://jurnal.publikasitecno.id/index.php/indimas/article/view/134",
+              "stringKey": "Journal Publication"
             }
           ]
         }
