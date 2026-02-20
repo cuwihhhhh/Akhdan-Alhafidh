@@ -44,6 +44,23 @@
       "items": [
         {
           "id": 1,
+          "dateStart": { "year": 2024, "month": 1 },
+          "dateEnd": { "year": 2024, "month": 6 },
+          "img": "images/icons/orbit.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "AI 4 Jobs",
+              "description": "Terpilih sebagai peserta Program MSIB Batch 6 pada pelatihan AI 4 Jobs yang berfokus pada fundamental Artificial Intelligence, logika dan siklus AI, serta implementasi Python dalam pengolahan dan visualisasi data untuk pengembangan solusi berbasis teknologi.",
+              "country": "Indonesia",
+              "institution": "Orbit Future Academy | PT. Orbit Ventura Indonesia",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 2,
           "dateStart": { "year": 2025, "month": 11 },
           "dateEnd": { "year": 2026, "month": 0 },
           "img": "images/icons/revou.png",
@@ -52,28 +69,10 @@
           "locales": {
             "en": {
               "title": "Mini Course Data Analyst",
-              "description": "<ul><li>Pengenalan data analyst.</li><li>Melakukan data cleaning dan eksplorasi data menggunakan Excel.</li><li>Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization.</li></ul>",
+              "description": "Mengikuti program pengenalan Data Analyst yang membahas dasar analisis data, data cleaning, eksplorasi data, dan visualisasi menggunakan Microsoft Excel sebagai fondasi pengambilan keputusan berbasis data.",
               "province": "Online",
               "country": "Indonesia",
-              "institution": "RevoU",
-              "tags": []
-            }
-          }
-        },
-        {
-          "id": 2,
-          "dateStart": { "year": 2026, "month": 1 },
-          "dateEnd": { "year": 2026, "month": 1 },
-          "img": "images/icons/sskill.png",
-          "fallbackFaIcon": null,
-          "fallbackFaIconColor": null,
-          "locales": {
-            "en": {
-              "title": "SpecialSkill Bootcamp: Data Analyst",
-              "description": "<ul><li>Mempelajari dasar statistik, Data preprocessing, Data cleaning,.</li><li>Exploratory Data Analysis (EDA), Data visualization.</li><li>Menghasilkan laporan dan dashboard interaktif untuk mendukung pengambilan keputusan berbasis data.</li></ul>",
-              "province": "Online",
-              "country": "Indonesia",
-              "institution": "SpecialSkill",
+              "institution": "RevoU | PT. Revolusi Cita Edukasi",
               "tags": []
             }
           }
@@ -82,16 +81,33 @@
           "id": 3,
           "dateStart": { "year": 2026, "month": 1 },
           "dateEnd": { "year": 2026, "month": 1 },
+          "img": "images/icons/sskill.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "SpecialSkill Bootcamp: Data Analyst",
+              "description": "Menyelesaikan bootcamp Data Analyst yang mencakup statistik dasar, data preprocessing, data cleaning, Exploratory Data Analysis (EDA), serta visualisasi data untuk menghasilkan insight yang mendukung pengambilan keputusan berbasis data.",
+              "province": "Online",
+              "country": "Indonesia",
+              "institution": "Special Skill Indonesia | PT. Special Skill Indonesia",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2026, "month": 1 },
+          "dateEnd": { "year": 2026, "month": 1 },
           "img": "images/icons/karirnex.png",
           "fallbackFaIcon": null,
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Bootcamp Sertifikasi MS Excel Specialist",
-              "description": "<ul><li>Mempelajari pengolahan data menggunakan Microsoft Excel dari dasar hingga lanjutan.</li><li>Menguasai data cleaning, formula & function (IF, VLOOKUP, INDEX-MATCH, dll), Pivot Table, dan data visualization.</li><li>Membangun laporan dan dashboard interaktif sebagai portfolio siap kerja.</li><li>Pengenalan dasar VBA untuk otomatisasi dan reporting.</li></ul>",
-              "province": "Online",
+              "title": "Intensive Bootcamp 2 Weeks - Microsoft Excel",
+              "description": "Mengikuti bootcamp Microsoft Excel yang berfokus pada pengolahan dan analisis data menggunakan formula lanjutan (IF, VLOOKUP, INDEX-MATCH), Pivot Table, dashboard interaktif, serta dasar VBA untuk otomatisasi reporting.",
               "country": "Indonesia",
-              "institution": "KarirNex",
+              "institution": "KarirNex | PT. Ebiz Karisma Internasional",
               "tags": []
             }
           }
