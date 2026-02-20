@@ -16,7 +16,7 @@
             "en": {
               "title": "AI 4 JOBS - (MSIB Batch 6)",
               "description": "Program Studi Independen (900 jam) yang berfokus pada konsep Artificial Intelligence, pemrograman Python, analisis data & statistik, serta pengembangan proyek akhir berbasis AI untuk penyelesaian masalah bisnis.",
-              "institution": "PT. Orbit Ventura Indonesia (Orbit Future Academy)"
+              "institution": "Orbit Future Academy | PT. Orbit Ventura Indonesia"
             }
           },
           "links": [
@@ -55,7 +55,7 @@
             "en": {
               "title": "Intro to Data Analytics",
               "description": "Pengantar analisis data mencakup data cleaning, EDA, dan visualisasi data.",
-              "institution": "RevoU"
+              "institution": "RevoU | PT. Revolusi Cita Edukasi"
             }
           },
           "links": [
@@ -71,9 +71,9 @@
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "SpecialSkill Bootcamp: Data Analyst",
-              "description": "Pelatihan intensif dalam analisis data yang mencakup statistik, data preprocessing, EDA, visualisasi data, serta pembuatan laporan dan dashboard interaktif untuk mendukung pengambilan keputusan berbasis data.",
-              "institution": "Special Skill"
+              "title": "Special Skill Bootcamp: Data Analyst",
+              "description": "Bootcamp intensif (28 jam) Data Analyst yang mencakup statistik dasar, pengolahan dan eksplorasi data (EDA), visualisasi, serta pembuatan dashboard menggunakan Excel.",
+              "institution": "Special Skill Indonesia | PT. Special Skill Indonesia"
             }
           },
           "links": [
@@ -89,9 +89,9 @@
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Sertifikasi MS. Excel Specialist",
-              "description": "Sertifikasi kompetensi dalam penggunaan Microsoft Excel untuk analisis data, termasuk kemampuan melakukan data preprocessing, EDA, visualisasi data, serta kemampuan menghasilkan laporan dan dashboard interaktif untuk mendukung pengambilan keputusan berbasis data.",
-              "institution": "KarirNex"
+              "title": "Intensive Bootcamp 2 Weeks - Microsoft Excel",
+              "description": "Pelatihan intensif (15 jam) Microsoft Excel yang mencakup pengolahan data, formula & function, Pivot Table, visualisasi data, serta dasar VBA dengan mini project sebagai evaluasi akhir.",
+              "institution": "KarirNex | PT. Ebiz Karisma Internasional"
             }
           },
           "links": [
